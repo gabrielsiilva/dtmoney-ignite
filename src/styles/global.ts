@@ -5,6 +5,7 @@ export const GlobalStyle = createGlobalStyle`
     //criação de variáveis de cor
     --red: #e52e40;
     --blue: #5429cc;
+    --green: #33CC95;
     
     --blue-light: #6933ff;
     
